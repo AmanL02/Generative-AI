@@ -1,4 +1,3 @@
-Here’s the formatted *Installation* section for your README file:
 
 ---
 
